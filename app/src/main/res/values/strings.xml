@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">B11109049HW2</string>
+
+    <!-- 景點名稱 -->
+    <string-array name="attraction_names">
+        <item>八卦山</item>
+        <item>中央公園</item>
+        <item>日月潭</item>
+        <item>高美濕地</item>
+        <item>國家歌劇院</item>
+        <item>宮原眼科</item>
+        <item>望高寮</item>
+        <item>清境農場</item>
+        <item>柳川</item>
+        <item>審計新村</item>
+    </string-array>
+
+    <!-- 景點說明 -->
+    <string-array name="attraction_descriptions">
+        <item>八卦山的描述</item>
+        <item>中央公園的描述</item>
+        <item>日月潭的描述</item>
+        <item>高美濕地的描述</item>
+        <item>國家歌劇院的描述</item>
+        <item>宮原眼科的描述</item>
+        <item>望高寮的描述</item>
+        <item>清境農場的描述</item>
+        <item>柳川的描述</item>
+        <item>審計新村的描述</item>
+    </string-array>
+</resources>
